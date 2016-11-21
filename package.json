@@ -29,10 +29,10 @@
   "main": "status",
   "dependencies": {
     "colors": "*",
-    "charm": "~0.2.0"
+    "charm": "~1.0.1"
   },
   "devDependencies": {
     "mocha": "*",
-    "chai": "~1.6.0"
+    "chai": "~3.5.0"
   }
 }
